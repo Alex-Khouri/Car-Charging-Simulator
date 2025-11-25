@@ -1,0 +1,14 @@
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/bin/Debug/net9.0/abc123
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/bin/Debug/net9.0/abc123.deps.json
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/bin/Debug/net9.0/abc123.runtimeconfig.json
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/bin/Debug/net9.0/abc123.dll
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/bin/Debug/net9.0/abc123.pdb
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/abc123.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/abc123.AssemblyInfoInputs.cache
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/abc123.AssemblyInfo.cs
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/abc123.csproj.CoreCompileInputs.cache
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/abc123.dll
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/refint/abc123.dll
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/abc123.pdb
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/abc123.genruntimeconfig.cache
+/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/obj/Debug/net9.0/ref/abc123.dll
