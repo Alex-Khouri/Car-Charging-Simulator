@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-client/car-charging-client.csproj": {}
+  },
+  "projects": {
+    "/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-client/car-charging-client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-client/car-charging-client.csproj",
+        "projectName": "car-charging-client",
+        "projectPath": "/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-client/car-charging-client.csproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Azure.Devices": {
+              "target": "Package",
+              "version": "[1.40.0, )"
+            },
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.42.3, )"
+            },
+            "Microsoft.Azure.WebJobs": {
+              "target": "Package",
+              "version": "[3.0.43, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/alex/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+/.vscode/
+/car-charging-client/bin/
+/car-charging-client/obj/*/
+/car-charging-devices/*/bin/
+/car-charging-devices/*/obj/*/

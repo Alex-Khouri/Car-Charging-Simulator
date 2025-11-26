@@ -1,0 +1,76 @@
+﻿@page "/manage-car"
+@rendermode InteractiveServer
+
+<PageTitle>Manage Car</PageTitle>
+
+<h1>Manage Car</h1>
+
+<label>Car Licence: </label>
+<InputText @bind-Value="CarLicence"/>
+
+<button class="btn btn-primary" @onclick="SubmitCarLicenceSearch">Search</button>
+
+@if (CarCharge != Globals.NULL_CHARGE)
+{
+	// TODO: Move lower elements into here once finished and tested
+}
+
+<br>
+<label>Current Charge: @CarCharge%</label>
+<br>
+@if (!CurrentlyCharging)
+{
+	<span>
+		<label>Use Delay: </label><InputCheckbox class="checkbox-charge-delay" @bind-Value="ChargeDelayEnabled"/>
+		@if (ChargeDelayEnabled)
+		{
+			<input type="datetime-local" @bind="ChargeDelayTime">
+		}
+		<br>
+		<button class="btn btn-primary" @onclick="StartCharging">Start</button>
+	</span>
+}
+else
+{
+	<span>
+		<button class="btn btn-primary" @onclick="StopCharging">Stop</button>
+	</span>
+}
+
+<br><br>
+<label>@Status</label>
+
+@code {
+    private string CarLicence = Globals.EMPTY_STRING;
+	private double CarCharge = Globals.NULL_CHARGE;
+	private bool CurrentlyCharging = false;
+	private bool ChargeDelayEnabled	= false;
+	private DateTime ChargeDelayTime = DateTime.Now;
+	private string Status = Globals.EMPTY_STRING;
+
+	protected override void OnInitialized()
+    { }
+
+    private void SubmitCarLicenceSearch()
+    {
+        try
+        {
+			HttpResponseMessage? response = NetworkController.SendMessageToHub(CarLicence, CarCharge.ToString());
+            Status = $"Message sent successfully:\n{response?.ToString() ?? "NULL"}";
+        }
+        catch (Exception e)
+        {
+            Status = $"Message sending failure:\n{e}";
+        }
+    }
+
+	private void StartCharging()
+	{
+
+	}
+
+	private void StopCharging()
+	{
+
+	}
+}
