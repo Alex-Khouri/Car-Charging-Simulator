@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "itXC2vHcdP8=",
+  "dgSpecHash": "KJ2969QGIXU=",
   "success": true,
   "projectFilePath": "/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-client/car-charging-client.csproj",
   "expectedPackageFiles": [
@@ -195,7 +195,10 @@
     "/home/alex/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/home/alex/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/home/alex/.nuget/packages/system.xml.xpath/4.3.0/system.xml.xpath.4.3.0.nupkg.sha512",
-    "/home/alex/.nuget/packages/system.xml.xpath.xdocument/4.3.0/system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    "/home/alex/.nuget/packages/system.xml.xpath.xdocument/4.3.0/system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.netcore.app.ref/8.0.21/microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.21/microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.21/microsoft.netcore.app.host.linux-x64.8.0.21.nupkg.sha512"
   ],
   "logs": []
 }

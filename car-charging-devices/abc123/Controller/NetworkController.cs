@@ -77,6 +77,13 @@ namespace Device
 						switch (actionType)
 						{
 							case ACTION.CHARGE_START:
+								string? startTimeString;
+								receivedMessage.Properties.TryGetValue(CHARGE_START_TIME_KEY, out startTimeString);
+								DateTime startTime;
+								if (DateTime.TryParse(startTimeString, out startTime))
+								{
+									DeviceModel.StartCharge(startTime);
+								}
 								DeviceModel.StartCharge();
 								break;
 							case ACTION.CHARGE_STOP:

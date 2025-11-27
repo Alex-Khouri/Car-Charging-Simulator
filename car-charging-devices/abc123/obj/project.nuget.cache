@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SlsFLGncmN0=",
+  "dgSpecHash": "g28nXoCNoX8=",
   "success": true,
   "projectFilePath": "/mnt/4ee74f18-28e2-461f-b981-5c32274e2d8d/Documents/Work/Job Applications/Coding Tests/Compac/Intermediate Software Developer/car-charging-devices/abc123/abc123.csproj",
   "expectedPackageFiles": [
@@ -39,7 +39,10 @@
     "/home/alex/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
     "/home/alex/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
     "/home/alex/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
-    "/home/alex/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "/home/alex/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.netcore.app.ref/8.0.21/microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.21/microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.21/microsoft.netcore.app.host.linux-x64.8.0.21.nupkg.sha512"
   ],
   "logs": []
 }
